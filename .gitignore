@@ -1,5 +1,7 @@
 # secrets and credentials
 config.yaml
+# data at hand
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
